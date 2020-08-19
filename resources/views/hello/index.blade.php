@@ -27,7 +27,7 @@
   @else
     <p>※ログインしてません。(<a href="/login">ログイン</a>|<a href="/register">新規ユーザー登録</a>)</p>
   @endif
-
+  
   <table>
     <tr>
       <th>名前</th>
@@ -60,5 +60,5 @@
 @endsection
 
 @section('footer')
-  copyright 2020
+  copyright Astore
 @endsection

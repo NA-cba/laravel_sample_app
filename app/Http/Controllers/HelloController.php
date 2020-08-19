@@ -43,6 +43,10 @@ class HelloController extends Controller
       return redirect('/hello');
     }
 
+
+
+
+
     public function edit(Request $request)
     {
       $item = DB::table('people2')->where('id',$request->id)->first();

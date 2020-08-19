@@ -2,6 +2,13 @@
 <head>
   <title>@yield('title')</title>
   <style>
+
+    html{
+      width:900px;
+      margin-right: auto;
+      margin-left : auto;
+    }
+
     th {background-color: black; color:fff; padding:5px 10px; }
     td {border: solid 1px #aaa; color:block; padding:5px 10px;}
   </style>

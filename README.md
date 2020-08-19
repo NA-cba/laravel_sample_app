@@ -9,7 +9,7 @@
 
 ## 使用技術
 
-PHP,Laravel,Vue.js,HTML,CSS,Bootstrap,SQLite
+PHP,Laravel,Vue.js,Node.js,HTML,CSS,Bootstrap,SQLite
 
 ## デモ
 
